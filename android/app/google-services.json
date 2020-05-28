@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "508201699940",
+    "firebase_url": "https://example-8de04.firebaseio.com",
+    "project_id": "example-8de04",
+    "storage_bucket": "example-8de04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508201699940:android:1e5c4c6a8cac6855c32d71",
+        "android_client_info": {
+          "package_name": "com.sandhu.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508201699940-ujg57firh8d0188hu5a8moqm70q524vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFvmMfiXgdngSy7ICo8Qft7cGcESF-TSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508201699940-ujg57firh8d0188hu5a8moqm70q524vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
